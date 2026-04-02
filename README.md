@@ -1,1 +1,1 @@
-it analyst/pentester 
+IT analyst
